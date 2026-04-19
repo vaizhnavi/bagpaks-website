@@ -27,7 +27,7 @@ export default function HomePage({ setCurrentPage }: HomePageProps) {
           <div className="max-w-3xl">
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
               Industrial Packaging
-              <span className="block text-red-500">Engineered for Excellence</span>
+              <span className="block text-red-500">We make things move</span>
             </h1>
             <p className="text-xl text-gray-200 mb-8 leading-relaxed">
               Leading manufacturer of FIBC bags, Ad Star bags, and Woven PP bags in Oman. Trusted by industries worldwide for reliable, high-quality packaging solutions.
