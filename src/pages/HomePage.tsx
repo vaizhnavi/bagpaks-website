@@ -30,7 +30,7 @@ export default function HomePage({ setCurrentPage }: HomePageProps) {
               <span className="block text-red-500">Engineered for Excellence</span>
             </h1>
             <p className="text-xl text-gray-200 mb-8 leading-relaxed">
-              Leading manufacturer of FIBC bags, Ad Star bags, Baffle bags, and Woven PP bags in Oman. Trusted by industries worldwide for reliable, high-quality packaging solutions.
+              Leading manufacturer of FIBC bags, Ad Star bags, and Woven PP bags in Oman. Trusted by industries worldwide for reliable, high-quality packaging solutions.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button
