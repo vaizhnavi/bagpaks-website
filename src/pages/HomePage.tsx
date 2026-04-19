@@ -151,10 +151,7 @@ export default function HomePage({ setCurrentPage }: HomePageProps) {
                 <div className="mb-4">
                   <p className="text-sm font-bold text-gray-700 mb-2">Available Types:</p>
                   <ul className="space-y-1 text-sm text-gray-600">
-                    <li className="flex items-start">
-                      <span className="text-red-600 mr-2">•</span>
-                      Baffle Bags - Cubic shape retention
-                    </li>
+                   
                     <li className="flex items-start">
                       <span className="text-blue-900 mr-2">•</span>
                       Standard / UN Bags - Versatile with UN certification
