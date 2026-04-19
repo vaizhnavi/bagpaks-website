@@ -71,8 +71,8 @@ export default function Footer({ setCurrentPage }: FooterProps) {
                   <a href="tel:+96892240805" className="block text-gray-400 hover:text-white transition-colors">
                     +968 9224 0805
                   </a>
-                  <a href="tel:+96891180162" className="block text-gray-400 hover:text-white transition-colors">
-                    +968 9118 0162
+                  <a href="tel:+96891187614" className="block text-gray-400 hover:text-white transition-colors">
+                    +96891187614
                   </a>
                 </div>
               </div>
