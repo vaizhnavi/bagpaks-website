@@ -69,10 +69,10 @@ export default function ContactPage() {
                   +968 9224 0805
                 </a>
                 <a
-                  href="tel:+96891180162"
+                  href="tel:+96891187614"
                   className="block text-gray-700 hover:text-blue-900 transition-colors"
                 >
-                  +968 9118 0162
+                  +968 9118 7614
                 </a>
               </div>
             </div>
